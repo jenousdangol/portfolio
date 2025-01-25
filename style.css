@@ -84,7 +84,7 @@ h2::after {
 
 }
 
-img{
+.face{
   width: 25rem; 
   height: 25rem; 
   object-fit: cover;
@@ -148,9 +148,18 @@ h3::after {
 .box{
   flex: none;
   width:15rem;
-  height:15rem;
+  height:18rem;
   background-color: red; 
   margin: 2rem;
+
+}
+
+
+.calc{
+
+  width: 15rem;
+  height:15rem;
+  object-fit:contain;
 
 }
 
